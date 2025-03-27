@@ -9,15 +9,6 @@ from datetime import timedelta
 import logging
 import snowflake.connector
 
-"""
-This pipeline assumes that there are two other tables in your snowflake DB
- - user_session_channel
- - session_timestamp
-
-With regard to how to set up these two tables, please refer to this README file:
- - https://github.com/keeyong/sjsu-data226-SP25/blob/main/week8/How-to-setup-ETL-tables-for-ELT.md
-"""
-
 def return_snowflake_conn():
 
     # Initialize the SnowflakeHook
