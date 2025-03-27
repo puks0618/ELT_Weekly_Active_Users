@@ -1,4 +1,4 @@
-# Weekly Active Users (WAU) Chart Project
+# Weekly Active Users (WAU) Chart 
 
 ## Overview
 This work focuses on creating a Weekly Active Users (WAU) chart using modern data engineering tools including Airflow for ETL/ELT processes.
