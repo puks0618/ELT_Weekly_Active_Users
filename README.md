@@ -60,8 +60,3 @@ This work focuses on creating a Weekly Active Users (WAU) chart using modern dat
 
 - ELT DAG Screenshot: ![image](https://github.com/user-attachments/assets/b4a7532b-e915-431d-8c13-6d6d7a22dd3a)
 
-
-## Future Improvements
-- Enhance duplicate detection
-- Add more granular user engagement metrics
-- Implement real-time monitoring
